@@ -1,2 +1,2 @@
 # Copiar_Spotify
-Coner de um aplicativo de música
+Clone de um aplicativo de música
