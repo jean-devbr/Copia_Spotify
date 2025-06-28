@@ -109,19 +109,9 @@ main {
     flex-flow: column wrap;
     align-items: center;
     margin-top: 20px;
-    height: auto;
     
-    
+}
 
-    
-}
-#categoria {
-    
-    
-    
-     
-    
-}
 .separador {
     display: flex;
     flex-flow: column wrap;
@@ -132,7 +122,6 @@ main {
 }
 ol {
     list-style: none;
-    
 }
 li {
     background-color: #292929;
@@ -140,7 +129,6 @@ li {
     align-items: center;
     width: 190px;
     border-radius: 4px;
-
 }
 
 span {
