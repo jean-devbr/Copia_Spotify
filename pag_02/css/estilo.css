@@ -119,6 +119,7 @@ main {
     gap: 8px;
     height: 7.2vh;
     margin-top: 4px;
+    
 }
 ol {
     list-style: none;
@@ -134,7 +135,69 @@ li {
 span {
     color: #FFFFFF;
     margin: 5px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0px;
 }
 .indivivual-lull {
     margin-left: 5px;
+}
+#segunda-parte {
+    padding: 24px 16px 8px 16px;
+    width: 390px;
+    height: auto;
+    display: flex;
+    flex-flow: column wrap;
+    gap: 3vh;
+    
+}
+h1 {
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    letter-spacing: -0.55px;
+}
+#live-club {
+    display: flex;
+    flex-direction: row;
+    background-color: #333333;
+    border-radius: 8px;
+    color: #FFFFFF;
+
+    
+}
+#mensagem {
+    display: flex;
+    flex-flow: column wrap;
+    gap: 5px;
+    padding: 16px;
+
+}
+.mensagem-data {
+    font-family: 'Circular Std', sans-serif;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0px;
+    color: #B3B3B3;
+}
+.titulo-billions {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 17px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+
+}
+.mensagem-billions {
+    font-family: 'Circular Std', sans-serif;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 0px;
+    color: #B3B3B3;
 }
