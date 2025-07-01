@@ -201,3 +201,73 @@ h1 {
     letter-spacing: 0px;
     color: #B3B3B3;
 }
+footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-bottom: 8px;
+   
+}
+#terceira-parte {
+    
+    width: 390px;
+    display: flex;
+    flex-flow: column wrap;
+    gap: 16px;
+    padding-left: 5px;
+    padding-right: 15px;
+
+}
+#img-pani-da-rang {
+    border-radius: 4px;
+}
+#play-music {
+    background-color: #005A59;
+    border-radius: 8px;
+    padding: 8px;
+    height: 56px;
+    width: 377px;
+    display: flex;
+    flex-flow: row wrap;  
+    gap: 8px; 
+}
+#legada {
+
+    display: flex;
+    flex-flow: column wrap;
+
+    
+    
+}
+.letra-pani {
+    color: #FFFFFF;
+    font-family: 'Circular Std', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    letter-spacing: 0px;
+}
+.sob-titulo {
+    color: #ffffff60;
+    font-family: 'Circular Std', sans-serif;
+    font-weight: 400px;
+    font-size: 12px;
+    line-height: 17px;
+    letter-spacing: 0px;
+    
+}
+a {
+    text-decoration: none;
+}
+#icone-musica {
+    
+    display: flex;
+    justify-content: end;
+    width: 82px;
+    height: 32px;
+    gap: 18px;
+    margin-left: 25px;
+
+
+}
