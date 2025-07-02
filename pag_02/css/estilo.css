@@ -49,11 +49,8 @@ a {
 .avatar {
     padding-bottom: 30px;
     height: 32px;
-    
     padding: 0;
-    
     gap: 8px;
-    
     display: flex;
     justify-content: center;
 }
@@ -136,25 +133,15 @@ li {
     background-color: #292929;
     display: flex;
     align-items: center;
-    width: 190px;
+    width: 180px;
     border-radius: 4px;
-    
-}
-.botao {
-    display: inline-block;
-    width: 100%;
     height: 100%;
-    transition: background-color 0.3s;
-    display: flex;
-    align-items: center;
 
 }
-.botao:hover {
-    
-    background-color: #218838; 
-    border-radius: 4px;
-}
+
+
 span {
+    
     color: #FFFFFF;
     margin: 5px;
     font-family: "Poppins", sans-serif;
